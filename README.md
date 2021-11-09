@@ -1,4 +1,5 @@
 <p><h1>Iaew, meu nome é Felipe e eu adoro <strong>COMPUTAÇÃO ❤️</strong></h1></p>
+<p>smile Pronouns: Elx/Delx</p>
 <p>Gosto de pesquisar diversas coisas sobre computação, principalmente areas científicas e linguagens de baixo nível, mas também tenho uma enorme paixão sobre desenvolvimento WEB.<br/>
 </br>
 Vamo trocar uma ídeia?<br/>
